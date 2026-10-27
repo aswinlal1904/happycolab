@@ -1,5 +1,9 @@
 # 🌟 HappyColab (Python Library)
 
+[![PyPI version](https://img.shields.io/pypi/v/happycolab.svg)](https://pypi.org/project/happycolab/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aswinlal1904/happycolab/blob/main/colab_server/colab_server_notebook.ipynb)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **HappyColab** is a high-speed Python client and AI agent framework that lets you run Large Language Models in **Google Colab** (with free GPU acceleration) and call them from any other machine with **native Tool & Function Calling**, real-time streaming, error recovery guides, and interactive chat.
 
 ---
