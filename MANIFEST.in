@@ -1,0 +1,5 @@
+include README.md
+include requirements.txt
+include pyproject.toml
+recursive-include happycolab *.ipynb
+recursive-include colab_server *
